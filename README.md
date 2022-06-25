@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![gamesense](https://i.imgur.com/xg96q7X.png)
+![gamesense](https://i.imgur.com/xg96q7X.png)
 
 Student | Developer | Gamer
 </div>
